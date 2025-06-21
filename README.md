@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=payaltalreja08&label=Profile%20views&color=0e75b6&style=flat" alt="payaltalreja08" /> </p>
 
 - 🌱 I’m currently exploring  **MERN**
-- 
 
 - 📫 How to reach me **payaltalreja0808@gmail.com**
 
