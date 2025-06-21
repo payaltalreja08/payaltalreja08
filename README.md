@@ -3,7 +3,8 @@
 <img align="right" alt="coding" width="400"src="https://camo.githubusercontent.com/7aa569058fb2909d21dcba34e54096c61ac0e634804d8044ffbae96263a459f5/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=payaltalreja08&label=Profile%20views&color=0e75b6&style=flat" alt="payaltalreja08" /> </p>
 
-- 🌱 I’m currently learning **React,nodejs**
+- 🌱 I’m currently exploring  **MERN**
+- 
 
 - 📫 How to reach me **payaltalreja0808@gmail.com**
 
