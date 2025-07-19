@@ -21,20 +21,42 @@
 </div>
 
 ```javascript
-const payal = {
+const developerProfile = {
+    name: "Payal Talreja",
+    role: "Aspiring Full Stack Developer",
     location: "India 🇮🇳",
-    currentFocus: "Full Stack Development",
-    passion: ["Problem Solving", "Clean Code", "Innovation"],
-    techStack: {
-        frontend: ["React", "JavaScript", "HTML5", "CSS3", "Tailwind"],
-        backend: ["Node.js", "Express", "PHP"],
-        database: ["MongoDB", "MySQL"],
+    specialization: "MERN Stack Development",
+    
+    expertise: [
+        "Frontend development with modern frameworks",
+        "Backend API design and implementation", 
+        "Database architecture and optimization",
+        "Responsive web application development"
+    ],
+    
+    technicalStack: {
+        frontend: ["React.js", "JavaScript ES6+", "HTML5", "CSS3", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js", "PHP"],
+        databases: ["MongoDB", "MySQL"],
         languages: ["C++", "Java", "Python", "JavaScript"],
-        tools: ["Git", "VS Code", "Bootstrap"]
+        tools: ["Git", "VS Code", "Bootstrap", "RESTful APIs"]
     },
-    currentlyLearning: ["Advanced React Patterns", "System Design", "DSA"],
-    goals: ["Build impactful applications", "Contribute to open source"],
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
+    
+    currentLearning: [
+        "Advanced React patterns and state management",
+        "System design principles and scalable architectures",
+        "Data structures and algorithm optimization",
+        "Modern development best practices"
+    ],
+    
+    professionalGoals: [
+        "Deliver high-quality, maintainable software solutions",
+        "Contribute to open source projects and developer community",
+        "Build applications that solve real-world problems"
+    ],
+    
+    approach: "Focused on writing clean, efficient code with attention to user experience",
+    philosophy: "Continuous learning and adaptation to emerging technologies"
 }
 ```
 
@@ -75,17 +97,26 @@ const payal = {
 
 <div align="center">
 
-## 🌟 **Current Journey**
+## 🌟 **Development Focus**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
+### **Current Learning Path**
 ```
 🎯 Mastering MERN Stack Development
-🔥 Building Real-World Projects  
-💡 Exploring Advanced JavaScript Concepts
-🧩 Sharpening Problem-Solving Skills
-📚 Learning System Design Principles
+🔧 Building Production-Ready Applications  
+💡 Advanced JavaScript & React Patterns
+🏗️ System Design & Architecture Principles
+📊 Database Design & Optimization
+🚀 Modern Development Workflows
 ```
+
+### **Professional Development**
+- **Technical Excellence**: Committed to writing maintainable, scalable code
+- **Problem-Solving**: Analytical approach to complex technical challenges  
+- **Continuous Learning**: Staying updated with industry trends and best practices
+- **Collaboration**: Experience working with development teams and version control
+- **User-Centric**: Focus on creating intuitive and accessible user experiences
 
 </div>
 
@@ -118,14 +149,26 @@ const payal = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
-### 🎮 **Coding Philosophy**
-*"Code is like humor. When you have to explain it, it's bad."* - Cory House
+### 💭 **Developer Mindset**
+* while(!(succeed == try()))*
 
-### ⚡ **Quick Facts**
-- 🌙 Night owl who codes best after midnight
-- ☕ Coffee is my debugging fuel
-- 🎵 Code with lo-fi beats in the background
-- 🐛 I speak fluent "Error 404" and "Syntax Error"
+### ⚡ **My Developer DNA**
+- 🌙 **Night Owl** - Peak productivity hits after 11 PM
+- ☕ **Coffee Dependent** - My code compiles better with caffeine
+- 🎵 **Lo-fi Powered** - Coding soundtrack: chill beats & rain sounds  
+- 🐛 **Bug Whisperer** - I speak fluent console.error()
+- 📚 **Eternal Student** - Always learning, always growing
+- 🎮 **Logic Lover** - If life were a game, I'd be solving puzzles all day
+
+### 🎯 **Current Obsessions**
+```bash
+$ while (learning) {
+    master("React Patterns");
+    explore("System Design");
+    practice("Algorithm Optimization"); 
+    dream("Next Big Project");
+}
+```
 
 </div>
 
