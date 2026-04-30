@@ -1,51 +1,37 @@
-# Hi, I'm Payal Talreja 👋
+# Payal Talreja
 
-### Full Stack Developer (MERN) | GenAI & AI/ML Enthusiast
+**Full Stack Developer (MERN) | GenAI & AI/ML Enthusiast**
 
-I build scalable web applications and explore how AI can solve real-world problems.
-
----
-
-## 💻 Tech Stack
-
-**Frontend**
-- React.js
-- JavaScript
-- HTML, CSS
-
-**Backend**
-- Node.js
-- Express.js
-
-**Database**
-- MongoDB
-- MySQL
-
-**AI / ML / GenAI**
-- Python
-- Pandas, NumPy
-- Machine Learning basics
-- Generative AI fundamentals
-
-**Languages**
-- C++
-- Java
-- Python
+Building scalable web applications and exploring intelligent systems that solve real-world problems.
 
 ---
 
-## 🌱 Currently Learning
-- Advanced React
-- System Design
-- AI/ML & Generative AI applications
+## About
+I am a developer focused on creating efficient, user-centric applications using modern web technologies.  
+Alongside full-stack development, I actively explore Artificial Intelligence and Generative AI to build smarter, data-driven solutions.
 
 ---
 
-## 📫 Contact
+## Work & Interests
+- Developing end-to-end web applications with clean architecture  
+- Designing RESTful APIs and managing databases  
+- Applying AI/ML concepts to practical use cases  
+- Exploring Generative AI for intelligent product features  
+
+---
+
+## Currently Learning
+- Advanced React patterns and performance optimization  
+- System design and scalable architectures  
+- AI/ML and Generative AI integration in applications  
+
+---
+
+## Contact
 - Email: payaltalreja0808@gmail.com  
 - LinkedIn: https://linkedin.com/in/payal-talreja  
 
 ---
 
-## 🚀 Goal
-To build impactful, intelligent applications by combining full-stack development with AI.
+## Objective
+To contribute to impactful projects and grow as a developer at the intersection of software engineering and AI.
